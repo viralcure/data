@@ -1,1 +1,108 @@
-
+{
+    "ambulancia": {
+        "title": "RESGATE DOS PACIENTES EM ESTADO GRAVE",
+        "banner": "assets/images/CARD_Ambulancia_Foto.png",
+        "description": "Aluguel de ambulâncias para o transporte de pacientes em estado grave.",
+        "src": "assets/images/CARD_Ambulancia_Foto.png",
+        "crowdfunding": {
+            "current": {
+                "money": 0,
+                "helpers": 0
+            },
+            "goal": {
+                "days": 0,
+                "money": 7200000
+            }
+        },
+        "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=contasareceber%40ffm.br&item_name=COMBATE+AO+CORONA+VIRUS&currency_code=BRL&source=url",
+        "resume": [
+            {
+                "title": "Missão",
+                "text": "Resgate dos Pacientes em estado grave"
+            },
+            {
+                "title": "Beneficiário",
+                "text": "hospital das clínicas, são paulo-SP"
+            },
+            {
+                "title": "Como?",
+                "text": "Aluguel de ambulâncias para  o transporte de pacientes em estado grave"
+            },
+            {
+                "title": "Número de ambulâncias",
+                "text": "5 unidades"
+            }
+        ],
+        "products": [
+            {
+                "title": "Herói 01",
+                "description": "Doe quanto quiser",
+                "value": 0,
+                "helpers": 0
+            },
+            {
+                "title": "Herói 02",
+                "description": "Doe mais de R$10.000,00",
+                "value": 10000,
+                "helpers": 0
+            }
+        ]
+    },
+    "atendimentos": {
+        "title": "OTIMIZAÇÃO DO ATENDIMENTO DOS PACIENTES",
+        "banner": "assets/images/CARD_Computer_Foto.png",
+        "description": "Compra de computadores para otimizar atendimento dos pacientes.",
+        "src": "assets/images/CARD_Computer_Foto.png",
+        "crowdfunding": {
+            "current": {
+                "money": 0,
+                "helpers": 0
+            },
+            "goal": {
+                "days": 0,
+                "money": 180000
+            }
+        },
+        "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=contasareceber%40ffm.br&item_name=COMBATE+AO+CORONA+VIRUS&currency_code=BRL&source=url",
+        "resume": [
+            {
+                "title": "Missão",
+                "text": "Otimzação do atndimento dos pacientes"
+            },
+            {
+                "title": "Beneficiário",
+                "text": "hospital das clínicas, são paulo-SP"
+            },
+            {
+                "title": "Como?",
+                "text": "Compra de computadores para uso exclusivo e permanente do hospital"
+            },
+            {
+                "title": "Número de computadores",
+                "text": "90 unidades"
+            },
+            {
+                "title": "Custo por máquina",
+                "text": "R$ 2.000,00"
+            },
+            {
+                "title": "Valor total a ser arrecadado",
+                "text": "R$ 180.000,00"
+            }
+        ],
+        "products": [
+            {
+                "title": "Herói 01",
+                "description": "Doe quanto quiser",
+                "value": 0,
+                "helpers": 0
+            },
+            {
+                "title": "Herói 02",
+                "description": "Doe mais de R$10.000,00",
+                "value": 10000,
+                "helpers": 0
+            }
+        ]
+    }
+}
